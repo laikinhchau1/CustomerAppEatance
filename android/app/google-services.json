@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "420298455356",
+    "firebase_url": "https://myappname-c5e6d.firebaseio.com",
+    "project_id": "myappname-c5e6d",
+    "storage_bucket": "myappname-c5e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420298455356:android:1036953571a7ee5cc54639",
+        "android_client_info": {
+          "package_name": "com.eatance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420298455356-3d22psdjk0i42240i7kusvr3r8sqcnhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHazmMSDFfGkM_z5sBSDRgu4QQdkcBa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420298455356-3d22psdjk0i42240i7kusvr3r8sqcnhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420298455356-apt1b1v2f2rff1htg0dbp2eb08mj18sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Evincedev.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420298455356:android:f7f3459d38a13883c54639",
+        "android_client_info": {
+          "package_name": "com.eatance.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420298455356-3d22psdjk0i42240i7kusvr3r8sqcnhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHazmMSDFfGkM_z5sBSDRgu4QQdkcBa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420298455356-3d22psdjk0i42240i7kusvr3r8sqcnhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420298455356-apt1b1v2f2rff1htg0dbp2eb08mj18sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Evincedev.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420298455356:android:04c3c91387542641c54639",
+        "android_client_info": {
+          "package_name": "com.eatancedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420298455356-3d22psdjk0i42240i7kusvr3r8sqcnhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHazmMSDFfGkM_z5sBSDRgu4QQdkcBa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420298455356-3d22psdjk0i42240i7kusvr3r8sqcnhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420298455356-apt1b1v2f2rff1htg0dbp2eb08mj18sj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Evincedev.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
